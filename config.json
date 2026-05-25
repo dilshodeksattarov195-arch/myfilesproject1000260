@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdetch",
+        "uuid": 670540,
+        "checksum": "u829ln"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
